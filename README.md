@@ -1,3 +1,3 @@
 # Git-exercise
 
-Heu there
+I am Gabriel Kyeremateng...and i want to be a programmer
